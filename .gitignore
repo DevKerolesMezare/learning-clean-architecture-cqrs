@@ -1,0 +1,57 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+bin/
+obj/
+.vs/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
